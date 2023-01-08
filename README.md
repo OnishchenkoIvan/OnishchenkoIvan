@@ -100,11 +100,11 @@
 <div align="center">
     <a href="https://www.codewars.com/users/OnishchenkoIvan" target="_blank">
        <img src="img.gif"  width="300" alt="neo"/>
-    <p>
+</a>
+<p><a href="https://www.codewars.com/users/OnishchenkoIvan" target="_blank">
         <img width="320" src="https://www.codewars.com/users/OnishchenkoIvan/badges/small"
              title="CodeWars" alt="CodeWars"/>
-    </p>
-    </a>
+    </a></p>
     <a href="https://leetcode.com/OnishchenkoIvan/" target="_blank">
         <img width="400" title="OnishchenkoIvan LeetCode Stats" alt="OnishchenkoIvan LeetCode Stats" src="https://leetcard.jacoblin.cool/OnishchenkoIvan?theme=nord" />
     </a>
