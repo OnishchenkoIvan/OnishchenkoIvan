@@ -3,21 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=190&section=header&text=Ivan%20Onishchenko&desc=frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=65&fontAlign=68&fontAlignY=44&descSize=18&descAlign=82.5&descAlignY=17"/>
 </div>
 <!-- /HEARER -->
-<p align="center"><a href="https://t.me/OnishchenkoIvan" target="_blank">
-    <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
-  </a>
-  <a href="https://www.linkedin.com/in/ivan-onishchenko-6a9640245/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge">
-  </a></p>
-<!-- ./STAT -->
-<div align="center">
-    <a href="https://skyline.github.com/OnishchenkoIvan/2022" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=OnishchenkoIvan&hide_border=true&stroke=888&ring=494&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=494&background=0000"
-             title="OnishchenkoIvan" 
-             alt="OnishchenkoIvan"
-             width="60%"/>
-    </a>
-</div>
+
 <div align="center">
     <a href="https://github.com/OnishchenkoIvan?tab=repositories" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=OnishchenkoIvan&show_icons=true&count_private=true&hide_border=true&title_color=494&text_color=888&icon_color=494&bg_color=0000"
