@@ -3,7 +3,12 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=190&section=header&text=Ivan%20Onishchenko&desc=frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=65&fontAlign=68&fontAlignY=44&descSize=18&descAlign=82.5&descAlignY=17"/>
 </div>
 <!-- /HEARER -->
-
+<p align="center"><a href="https://t.me/OnishchenkoIvan">
+    <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/ivan-onishchenko-6a9640245/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge">
+  </a></p>
 <!-- ./STAT -->
 <div align="center">
     <a href="https://skyline.github.com/OnishchenkoIvan/2022">
